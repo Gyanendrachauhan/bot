@@ -2,7 +2,6 @@ import streamlit as st
 import speech_recognition as sr
 import openai
 import sounddevice as sd
-import numpy as np
 import wavio
 from gtts import gTTS
 import io
