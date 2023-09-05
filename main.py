@@ -6,7 +6,7 @@ import wavio
 from gtts import gTTS
 import io
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 
 def transcribe_from_microphone():
